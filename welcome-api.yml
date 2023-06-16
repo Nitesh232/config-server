@@ -2,7 +2,7 @@ server:
   port: 8081
 
 
-msg: Testing Confgi Server
+msg: Testing Config Server in Microservices Architecture
 
 spring:
   boot:
