@@ -1,7 +1,7 @@
 server:
   port: 8091
 
-msg: Testing Greet API with config-Server.
+msg: Testing Greet API with config Server.
 
 
 spring:   
