@@ -1,3 +1,7 @@
+server:
+  port: 8081
+
+
 msg:
 
 spring:
