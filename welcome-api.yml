@@ -2,7 +2,7 @@ server:
   port: 8081
 
 
-msg: Testing Config-Server in Microservices Architecture.
+msg: Testing Config-Server in Microservices Architecture with Spring Boot 3.
 
 spring:
   boot:
