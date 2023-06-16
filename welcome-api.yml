@@ -2,7 +2,7 @@ server:
   port: 8081
 
 
-msg:
+msg: Testing Confgi Server
 
 spring:
   boot:
